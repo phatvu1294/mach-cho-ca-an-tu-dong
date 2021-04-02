@@ -52,4 +52,8 @@ Mạch cho cá ăn tự động được phát triển dựa trên ESP8266 và J
 
 **Bước 5**: Menu cài đặt cho phép chúng ta cài đặt thông số chẳng hạn Số ô đĩa quay và thời điểm cho ăn tự động, nhấp chọn vào các nhãn để thay đổi giá trị và nhấn **Áp dụng** để hoàn tất cài đặt.
 
-**Bước 6:** Khi cho ăn thủ công hoặc đến thời điểm cài đặt, động cơ sẽ hoạt động để gạt thức ăn từ các ô vào bể cá.  
+**Bước 6:** Khi cho ăn thủ công hoặc đến thời điểm cài đặt, động cơ sẽ hoạt động để gạt thức ăn từ các ô vào bể cá.
+
+### Video demo sản phẩm
+
+[https://www.youtube.com/watch?v=RqVVHTZL3hw](https://www.youtube.com/watch?v=RqVVHTZL3hw)
